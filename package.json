@@ -1,0 +1,12 @@
+{
+  "name": "auth0-demo",
+  "version": "1.0.0",
+  "description": "Auth0 integration with Node.js",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-openid-connect": "^2.5.2"
+  }
+}
